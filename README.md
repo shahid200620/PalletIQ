@@ -237,7 +237,7 @@ The accompanying presentation explains the project concept in greater detail.
 The complete presentation can be accessed using the link below.
 
 **Presentation:**
-`Add your Google Drive / OneDrive / GitHub Pages link here`
+`https://docs.google.com/presentation/d/1OfnqfRTDWmUBt1-uSu2hynFBMfidQpZ7/edit?usp=sharing&ouid=117668241938972796563&rtpof=true&sd=true`
 
 ---
 
